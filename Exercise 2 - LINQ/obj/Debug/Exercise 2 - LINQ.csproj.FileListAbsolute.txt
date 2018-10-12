@@ -1,0 +1,21 @@
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csprojAssemblyReference.cache
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csproj.CoreCompileInputs.cache
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe.config
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.pdb
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.pdb
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe.config
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.pdb
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csprojAssemblyReference.cache
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csproj.CoreCompileInputs.cache
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\Desktop\Year 3\Rich Applications Development\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.pdb
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe.config
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\bin\Debug\Exercise 2 - LINQ.pdb
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csprojAssemblyReference.cache
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.csproj.CoreCompileInputs.cache
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.exe
+C:\Users\S00083446\OneDrive - Institute of Technology Sligo\College\Year 3\R.A.D\Week 2\Exercise 2 - LINQ\Exercise 2 - LINQ\obj\Debug\Exercise 2 - LINQ.pdb
